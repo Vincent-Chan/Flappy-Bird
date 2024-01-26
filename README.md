@@ -10,3 +10,4 @@ This is a mini game of Flappy Bird. It is developed using HTML, CSS and Javascri
 2. After enter the website, press "Enter" key to start the game
 3. To allow the bird to jump, press "Space" key consistently.
 4. Enjoy the game!
+5. (To restart the game, you may simply reload the website by pressing "F5" key.)
