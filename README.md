@@ -11,3 +11,8 @@ This is a mini game of Flappy Bird. It is developed using HTML, CSS and Javascri
 3. To allow the bird to jump, press "Space" key consistently.
 4. Enjoy the game!
 5. (To restart the game, you may simply reload the website by pressing "F5" key.)
+
+---
+
+Note:
+ - This game can only play with physical keyboard, so you can only play it with your PC or desktop computer, but not on your smartphone or tablet computer.
